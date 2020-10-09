@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.citi.bean"},{"l":"com.citi.client"},{"l":"com.citi.service"},{"l":"com.citi.spec"},{"l":"com.citi.src"}]
